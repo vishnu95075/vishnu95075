@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on more open source project .
 - 🤔 I’m looking for help with us.
 - 💬 Ask me about somthing else .
-- 📫 how to reach me [ [Linkdin](www.linkedin.com/in/vishnukp95075) ]
+- 📫 how to reach me [Linkdin](www.linkedin.com/in/vishnukp95075) 
 - 😄 Pronouns: He / his
 - ⚡ Fun fact: ...
 - 
