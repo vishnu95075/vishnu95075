@@ -30,15 +30,15 @@
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=vishnu95075&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
- 
+ <!--
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu95075&layout=compact&theme=react&count_private=false" />
 </div>
-
+-->
 <div align="center">
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishnu95075)  
-</div>
+</div>  
     
 <div align="center">
         
