@@ -1,6 +1,6 @@
 ### Hi 👋
 ### *I am vishnu from Palamu ( Jharkhand )*
-- 🔭 **I’m currently pursuing BTech ( CSE ) degree from *Government engineering college,Ramgarh* .** 
+- 🔭 **I’m currently pursuing BTech ( CSE ) Degree from *Government engineering college,Ramgarh* .** 
 - 🌱 **I’m currently learning Machine Learning .**
 
 <div align="center">
