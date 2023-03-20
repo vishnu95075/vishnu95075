@@ -1,7 +1,7 @@
 ### Hi 👋
 ### *I am vishnu from Palamu ( Jharkhand )*
-- 🔭 **I’m currently pursuing BTech ( CSE ) Degree from *Government engineering college,Ramgarh* .** 
-- 🌱 **I’m currently learning Machine Learning .**
+- 🔭 **I’m currently pursuing BTech ( CSE ) Degree from *Government engineering college,Ramgarh.** 
+- 🌱 **I’m currently learning Machine Learning.**
 
 <div align="center">
 
@@ -44,6 +44,9 @@
         
 ![Profile views](https://gpvc.arturio.dev/vishnu95075)  
  </div>
-
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
