@@ -4,7 +4,7 @@
 
 ### Hi 👋
 ### *I am vishnu from Palamu ( Jharkhand )*
-- 🔭 **I’m currently pursuing BTech ( CSE ) Degree from *Government engineering college,Ramgarh* .** 
+- 🔭 **I’m currently pursuing BTech ( CSE ) Degree from *Ramgarh Engineering College* .** 
 - 🌱 **I’m currently Full Stack Developer .**
 
 <div align="center">
