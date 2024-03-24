@@ -4,7 +4,7 @@
 
 ### Hi 👋
 - I'm pursuing a bachelor's degree in computer science and engineering from Ramgarh Engineering College.
-I am Software engineer who is currently exploring and developing.Software engineers technologies React, Typescript, JavaScript, Spring Boot, Hibernate, MySQl, Express, Node.js and MongoDB.
+I am Software engineer who is currently exploring and developing Software engineers technologies React, Typescript, JavaScript, Spring Boot, Hibernate, MySQl, Express, Node.js and MongoDB.
 
 - I also enjoy problem-solving and have invested quite some time to strengthen my ability in the domain.I've explored techniques to choose the best possible data structures and apply algorithms for solving problems on coding platforms such as GeeksforGeeks and LeetCode. I enjoy web designing and would love to learn and gain experience in Back-End Development and UI/UX designing too.
 
